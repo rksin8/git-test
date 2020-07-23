@@ -14,3 +14,10 @@ def compute(expression):
     else:
         print('unknown operator!')
         return None
+        
+       
+
+
+# this project has been finished!
+# this calculator workds for +, -, *.,/
+# git push origin master
